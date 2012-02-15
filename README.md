@@ -3,7 +3,7 @@ Reviews
 
 Straightforward review/rating facility
 
-Please see TODO file
+Tested with Travis CI.
 
 
 Installation
